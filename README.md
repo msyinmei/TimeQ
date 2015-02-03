@@ -1,3 +1,3 @@
 # TimeQ
 
-This is a serious change to the README.md file
+A timeline query app using HTML, CSS, SASS, JavaScript, Node, Express, AngularJS. By Aaron Delaplane and Yin Mei
