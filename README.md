@@ -1,6 +1,5 @@
 # TimeQ
 
-I'm naughty because I didn't pull first. Or, just went rogue. BUT NOW ITS ALL GOOD
+##Description
+A timeline query app using HTML, CSS, SASS, JavaScript, Node, Express, AngularJS. By Aaron Delaplane and Yin Mei
 
-Aaron
-Another wonderful message === TEST!
